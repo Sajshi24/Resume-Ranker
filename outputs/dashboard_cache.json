@@ -1,0 +1,127 @@
+{
+  "generated_at": "2026-06-30T10:05:38.590298Z",
+  "job_profile": {
+    "role_title": null,
+    "company_name": null,
+    "location": null,
+    "seniority_level": null
+  },
+  "ranking_table": [
+    {
+      "rank": 1,
+      "candidate_id": "C001",
+      "name": "Aarav Sharma",
+      "overall_score": 0.0,
+      "potential_score": 0.0,
+      "hiring_recommendation": "strong_no_hire",
+      "hiring_recommendation_label": "STRONG NO HIRE",
+      "confidence": 0.0429,
+      "one_liner": "Aarav Sharma: STRONG NO HIRE — Overall score 0/100.",
+      "score_breakdown": {
+        "Overall": 0.0,
+        "Projects": 0.0,
+        "Domain Fit": 0.0,
+        "Skills": 0.0,
+        "Learning": 0.0,
+        "Soft Skills": 0.0,
+        "Growth": 0.0,
+        "Semantic Fit": 0.0
+      },
+      "strengths": [],
+      "weaknesses": []
+    },
+    {
+      "rank": 2,
+      "candidate_id": "C002",
+      "name": "Priya Patel",
+      "overall_score": 0.0,
+      "potential_score": 0.0,
+      "hiring_recommendation": "strong_no_hire",
+      "hiring_recommendation_label": "STRONG NO HIRE",
+      "confidence": 0.0429,
+      "one_liner": "Priya Patel: STRONG NO HIRE — Overall score 0/100.",
+      "score_breakdown": {
+        "Overall": 0.0,
+        "Projects": 0.0,
+        "Domain Fit": 0.0,
+        "Skills": 0.0,
+        "Learning": 0.0,
+        "Soft Skills": 0.0,
+        "Growth": 0.0,
+        "Semantic Fit": 0.0
+      },
+      "strengths": [],
+      "weaknesses": []
+    },
+    {
+      "rank": 3,
+      "candidate_id": "C003",
+      "name": "Rahul Verma",
+      "overall_score": 0.0,
+      "potential_score": 0.0,
+      "hiring_recommendation": "strong_no_hire",
+      "hiring_recommendation_label": "STRONG NO HIRE",
+      "confidence": 0.0429,
+      "one_liner": "Rahul Verma: STRONG NO HIRE — Overall score 0/100.",
+      "score_breakdown": {
+        "Overall": 0.0,
+        "Projects": 0.0,
+        "Domain Fit": 0.0,
+        "Skills": 0.0,
+        "Learning": 0.0,
+        "Soft Skills": 0.0,
+        "Growth": 0.0,
+        "Semantic Fit": 0.0
+      },
+      "strengths": [],
+      "weaknesses": []
+    },
+    {
+      "rank": 4,
+      "candidate_id": "C004",
+      "name": "Sneha Kulkarni",
+      "overall_score": 0.0,
+      "potential_score": 0.0,
+      "hiring_recommendation": "strong_no_hire",
+      "hiring_recommendation_label": "STRONG NO HIRE",
+      "confidence": 0.0429,
+      "one_liner": "Sneha Kulkarni: STRONG NO HIRE — Overall score 0/100.",
+      "score_breakdown": {
+        "Overall": 0.0,
+        "Projects": 0.0,
+        "Domain Fit": 0.0,
+        "Skills": 0.0,
+        "Learning": 0.0,
+        "Soft Skills": 0.0,
+        "Growth": 0.0,
+        "Semantic Fit": 0.0
+      },
+      "strengths": [],
+      "weaknesses": []
+    },
+    {
+      "rank": 5,
+      "candidate_id": "C005",
+      "name": "Aditya Mehta",
+      "overall_score": 0.0,
+      "potential_score": 0.0,
+      "hiring_recommendation": "strong_no_hire",
+      "hiring_recommendation_label": "STRONG NO HIRE",
+      "confidence": 0.0429,
+      "one_liner": "Aditya Mehta: STRONG NO HIRE — Overall score 0/100.",
+      "score_breakdown": {
+        "Overall": 0.0,
+        "Projects": 0.0,
+        "Domain Fit": 0.0,
+        "Skills": 0.0,
+        "Learning": 0.0,
+        "Soft Skills": 0.0,
+        "Growth": 0.0,
+        "Semantic Fit": 0.0
+      },
+      "strengths": [],
+      "weaknesses": []
+    }
+  ],
+  "full_reports_path": "C:\\Users\\ADMIN\\Documents\\Resume-Ranker\\outputs\\final_results.json"
+}

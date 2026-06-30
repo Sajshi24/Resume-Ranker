@@ -1,0 +1,69 @@
+Senior AI Software Engineer – Intelligent Recruitment Platform
+
+Location: Bangalore, India
+Experience: 2–5 Years
+Employment Type: Full-Time
+
+About the Role
+
+We are building a next-generation AI-powered recruitment intelligence platform that helps enterprises identify high-potential candidates using explainable AI. We are looking for engineers who enjoy solving complex problems using machine learning, NLP, and scalable backend systems.
+
+Responsibilities
+
+- Build AI-powered backend services using Python and FastAPI.
+- Design scalable APIs and microservices.
+- Develop semantic search and recommendation systems.
+- Work with Large Language Models for intelligent document understanding.
+- Deploy AI applications on cloud platforms.
+- Collaborate with frontend developers and product teams.
+- Optimize model performance and inference latency.
+- Write clean, maintainable, and testable code.
+- Participate in system design discussions.
+
+Required Skills
+
+- Python
+- FastAPI
+- REST APIs
+- Machine Learning
+- NLP
+- Large Language Models
+- Vector Databases
+- Git
+- Docker
+- SQL
+- MongoDB
+
+Preferred Skills
+
+- AWS
+- Kubernetes
+- CI/CD
+- LangChain
+- FAISS
+- Pinecone
+- Streamlit
+- Redis
+- Prompt Engineering
+
+Experience
+
+2–5 years of software engineering experience.
+
+Preferred Qualifications
+
+Bachelor's or Master's degree in Computer Science, Artificial Intelligence, or related field.
+
+Nice to Have
+
+- Open-source contributions
+- Research publications
+- Hackathon achievements
+- Experience deploying AI applications
+- Strong communication skills
+- Product thinking
+- Ownership mindset
+
+Hidden Expectations
+
+We value engineers who continuously learn new technologies, collaborate effectively, take ownership, think analytically, and demonstrate innovation while solving real-world problems.

@@ -1,0 +1,18 @@
+# ============================================================
+# Resume Intelligence Engine — Dependencies
+# ============================================================
+
+# Core
+pydantic[email]>=2.7.0
+python-dotenv>=1.0.0
+
+# Google Gemini (LLM + Embeddings)
+google-generativeai>=0.7.0
+
+# UI & Visualization (Streamlit Dashboard)
+streamlit>=1.32.0
+plotly>=5.19.0
+pandas>=2.2.0
+
+# Standard library extras (already bundled with Python 3.11+)
+# pathlib, typing, logging, json, datetime, abc — no install needed
